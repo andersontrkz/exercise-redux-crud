@@ -1,4 +1,4 @@
-import SET_USER from '../index';
+import SET_USER from './index';
 
 export default function userAction(users) {
   return {
